@@ -1,0 +1,14 @@
+<div class="filters">
+
+
+  <mat-form-field>
+    <mat-label>Sort</mat-label>
+    <mat-select panelClass="sort-select">
+      [(ngModel)]="sort" (ngModelChange)="onSortChange($event)">
+      <mat-option value="name">Name</mat-option>
+      <mat-option value="release_date">Release Date</mat-option>
+      <mat-option value="rating">Rating</mat-option>
+    </mat-select>
+
+  </mat-form-field>
+</div>
