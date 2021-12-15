@@ -4,7 +4,7 @@ Code a Project from Scratch (Angular)
 # Cristiano Filho
 Cristiano Filho portfolio 😄
 
-#deploy aplication: 
+# deploy aplication: 
 
 https://gameapicristianofilho.netlify.app
 
