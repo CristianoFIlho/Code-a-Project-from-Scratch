@@ -1,5 +1,5 @@
 # Code-a-Project-from-Scratch
-Code a Project from Scratch (Angular)
+Code a Project from Scratch (Angular, Express, API)
 
 # Cristiano Filho
 Cristiano Filho portfolio 😄
